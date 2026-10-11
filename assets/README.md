@@ -1,0 +1,1 @@
+Place only assets you have permission to use here, such as a profile image or app icon. If using a personal profile photo, make sure you are comfortable including it in the submission ZIP and public repository.
