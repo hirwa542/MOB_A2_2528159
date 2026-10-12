@@ -1,20 +1,21 @@
 # AI-use disclosure
 
-Student: Hirwa Honorine  
-Registration number: 25/28159  
-App: HirwaPortfolio
+**Student:** Hirwa Honorine  
+**Registration Number:** 25/28159  
+**App Name:** HirwaPortfolio
 
-I used AI assistance to help structure the React Native/Expo TypeScript starter project, draft documentation, suggest validation rules, restructure the Projects tab to contain a nested Project Details stack, add a reset-to-default profile action, and organize the submission checklist and UI/UX document. For my website projects, I came up with the ideas and made simple prototypes, then used AI tools to help develop the websites further. I reviewed the generated code and removed or changed elements that did not match my requirements. I do not claim that I independently wrote every line of AI-assisted code.
+## AI Tool Used
 
-I am responsible for reviewing the final code, correcting errors, and understanding the parts I submit. This disclosure should be updated if I use additional AI tools or assistance.
+I used **ChatGPT (OpenAI)** as an AI assistant throughout the development of my portfolio application and website projects.
 
-Before submission, I still need to:
-- Run the app and resolve any dependency or TypeScript issues.
-- Explain the navigation, state, validation, AsyncStorage and image-picker implementation.
-- Confirm which Agri Market features work in the current version and which Mwiza Kids Wear features remain a prototype.
-- Confirm the actual MySQL connection and database behavior in Agri Market; MySQL is planned, not yet connected, for Mwiza Kids Wear.
-- Build and install the APK, test it on a physical device, and record the real results.
+## How I Used AI
 
+ChatGPT helped me understand the assignment requirements, plan the application structure, and implement the required features using React Native, Expo, and TypeScript. Its assistance included code development, navigation, form validation, profile editing, image selection, data persistence, user interface improvements, and project documentation.
 
-## Visual refinement pass (11 October 2026)
-AI assistance was used to refine the app presentation with a consistent deep-navy and teal palette, a clearer Home profile hero, project snapshot cards, technology tags, project exploration links, and a more distinct bottom-tab icon treatment. The student should run and inspect the app on their own phone and make any final design adjustments before submission.
+For my website projects, Agri Market and Mwiza Kids Wear, I developed the original ideas and initial prototypes, then used ChatGPT to help expand and improve them according to my requirements.
+
+## My Role and Responsibility
+
+I guided the development process by explaining my requirements, reviewing the generated results, and checking whether the implementation matched the assignment specifications and my expectations. I examined the validation rules, identified unwanted features, and requested changes or removed elements that did not fit my intended design. I also reviewed the code structure and application functionality throughout the process.
+
+ChatGPT contributed significantly to the development, but the final project was guided by my ideas, decisions, and requirements. I acknowledge the use of AI assistance and take responsibility for reviewing, testing, correcting, and understanding the work I submit.
