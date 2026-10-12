@@ -64,10 +64,12 @@ The `preview` profile is configured to request an APK. Follow the EAS build outp
 
 ## Tested device and Android version
 Not yet tested. Fill in only after physical-device testing:
-- Device model:
-- Android version:
-- Test date:
+- Device model: Samsung galaxy A07
+- Android version:16
+- Test date:12/10/2026
 - APK build URL:
+https://expo.dev/artifacts/eas/dYCYYibNeS2HniAQqXf1WhUrYMdxi_FuM
+V_YhlGjq5s.apk
 
 ## Release and final commit
 - GitHub repository: add your actual repository URL here.
